@@ -42,4 +42,4 @@ jobs:
     - name: Build sphinx documentation
       run: |
         cd doc
-	make html
+        make html
